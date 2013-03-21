@@ -3,12 +3,22 @@ package com.example.oasis;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-/*
-* Prueba simple
-*/
+
+/**
+ * @date 22/03/2012
+ * @author Jonathan Maldonado Contreras
+ * @version 0.1
+ * @class MainActivity
+ * Activitie principal de la aplicación, en ella se inicia el ciclo de ejecución
+ * todavía a determinar si desde aquí se escogerá el escenario o no.
+ */
 
 public class MainActivity extends Activity {
 
+	/**
+	 * @param Bundle savedInstanceState
+	 * @return void
+	 */
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
