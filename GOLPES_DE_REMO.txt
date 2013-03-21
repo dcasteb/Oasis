@@ -1,0 +1,16 @@
+/*
+* OASIS
+* Jonathan Maldonado Contreras
++ Creative Commons (No money distribution, share alike)
+* fecha: 22/03/2013
+* version: 1.0
+*/
+
+Cosas imprescindibles a la hora de realizar los commits al proyecto:
+
+  1.- Ninguna clase será subida sin javadoc
+  2.- Se establecerá una cabecera en cada fichero explicando su funcionalidad, versión, quien ha intervenido...
+  3.- Al realizar los commit los mensajes deben ser explicativos, nada de "bug solucionado", sino "Se han tocado los ficheros 
+      tal y tal para solucionar este bug quedando probado para estos casos sin dar problema".
+  4.- Si alguna parte del código no se entendiese, se le hace saber a su autor para que la mejore en legibilidad y/o
+      autoexplicación.
