@@ -4,7 +4,6 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
-
 /**
  * @date 22/03/2012
  * @author Jonathan Maldonado Contreras
