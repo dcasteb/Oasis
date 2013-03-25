@@ -9,9 +9,10 @@
 Cosas imprescindibles a la hora de realizar los commits al proyecto:
 
   1.- Ninguna clase será subida sin javadoc
-  2.- Se establecerá una cabecera en cada fichero explicando su funcionalidad, versión, quien ha intervenido...
-  3.- Al realizar los commit los mensajes deben ser explicativos, nada de "bug solucionado", sino "Se han tocado los ficheros 
+  2.- Cabecera en cada fichero explicando su funcionalidad, versión, quien ha intervenido...
+  3.- Los commit con mensajes explicativos, nada de "bug solucionado", sino "Se han tocado los ficheros 
       tal y tal para solucionar este bug quedando probado para estos casos sin dar problema".
-  4.- Si alguna parte del código no se entendiese, se le hace saber a su autor para que la mejore en legibilidad y/o
-      autoexplicación.
-  5.- Se intentará explicar con claridad el código con la documentación, que eso también dará puntos.
+
+sino...
+
+GOLPE DE REMO !
